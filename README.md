@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ollama Python Examples
 
 Small command-line examples that run prompts through a locally hosted Ollama model. The scripts use `llama3.2:latest`.
@@ -55,3 +56,4 @@ python roles.py
 | `chatbot.py` | Interactive chat with conversation history |
 | `first ai program.py` | Single prompt using Ollama text generation |
 | `roles.py` | Single prompt using a system role and chat completion |
+
